@@ -52,6 +52,8 @@ html, body, #root {
 }
 .ic-t-btn {
   display: inline-block;
+  width: -webkit-max-content;
+  width: -moz-max-content;
   width: max-content;
   position: relative;
   padding: 10px 20px;
